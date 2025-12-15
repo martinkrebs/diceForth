@@ -1,3 +1,5 @@
+\ diceForth
+
 \ set up the port register address constants
 $24 constant ddrb
 $25 constant portb
